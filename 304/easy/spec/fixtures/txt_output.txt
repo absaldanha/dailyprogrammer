@@ -1,0 +1,11 @@
+Total Debit :407440 Total Credit :407440
+Balance from account 1000 to 2000 from period JAN-16 to FEB-16
+
+Balance:
+ACCOUNT         |DESCRIPTION     |           DEBIT|          CREDIT|         BALANCE|
+-------------------------------------------------------------------------------------
+1000            |Cash            |          100000|           96000|            4000|
+1100            |Lab Equipement  |           80000|               0|           80000|
+1110            |Office Supplies |           17600|               0|           17600|
+2000            |Notes Payables  |               0|           20000|          -20000|
+TOTAL           |                |          197600|          116000|           81600|

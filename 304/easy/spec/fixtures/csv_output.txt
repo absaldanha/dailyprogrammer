@@ -1,0 +1,14 @@
+Total Debit :407440 Total Credit :407440
+Balance from account 4000 to 9090 from period MAR-16 to JUL-16
+
+
+Balance:
+ACCOUNT;DESCRIPTION;DEBIT;CREDIT;BALANCE;
+4000;Commercial Revenue;0;82600;-82600;
+4090;Unearned Revenue;0;4000;-4000;
+4120;Dividends;5000;0;5000;
+5000;Direct Labor;19100;0;19100;
+5100;Consultants;19100;0;19100;
+5500;Misc Costs;3470;0;3470;
+7160;Telephone;2470;0;2470;
+TOTAL;;49140;86600;-37460;
